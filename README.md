@@ -1,1 +1,3 @@
 # CSC4600-Assignment1
+### Optimizing Retail Operations to Minimize Food Waste and Enhance Food Security using Data Mining Techniques
+> This project aligns with our organization's mission to promote food security by leveraging data-driven insights. Using data mining techniques, we aim to identify factors contributing to food waste in retail outlets and improve operational efficiency. The project includes clustering for waste analysis, classification for outlet type prediction, and comprehensive data preprocessing to address inconsistencies, outliers, and missing values. Visualizations and reports provide actionable recommendations to reduce waste, ensuring sustainable practices that support food availability and minimize losses in the supply chain.
